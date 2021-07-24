@@ -11,10 +11,10 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Dion Pettaway, A American-German software engineer from...many places (I'm a military brat)
+  Hi, I'm Dion Pettaway, an American born in Germany (so germany-adjacent!) software engineer from...many places (I'm a military brat)
   <br>
   <br>
-   👨‍💻 - Currently I'm enjoying messing with GraphQL/AWS solutions with Vue (and sometimes React) in the front.
+   👨‍💻 - Currently I'm enjoying furthering my knowledge of serverless solutions such as AWS Lambda, AWS Amplify as well as Infrastructure as Code via Serverless.js and Terraform. I'm also currently learning Ansible, and Prometheus.
   <br>
   📚 - My studies at the moment are Neo4j because graphs in general are something I've been enjoying learning about. As well as being kneedeep in Cracking The Coding Interview and tackling problems on LeetCode
   <br>
