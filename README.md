@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Dion, a Germany born American German software engineer from...many places (I'm a military brat)
+  Hi, I'm Dion, a Germany born American German software engineer from...many places
   <br>
   <br>
    👨‍💻 - Currently I'm enjoying furthering my knowledge of serverless solutions such as AWS Lambda, AWS CDK as well as improving my workflow when it comes to Infrastructure as Code utilizing via Serverless.js or Terraform inconjunction with docker and K8s. I once swore by Javascript only but have since seen the light that is Typescript and I swear by it now.
